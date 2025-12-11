@@ -13,9 +13,9 @@ Mecánica del juego:
 - **Gris:** *letra no está en la palabra.*
 
 ## TABLA EJEMPLO PARA EL QUE NO SEPA UTILIZAR WORDLE
-  Tabla:
+  Tabla:  
     | **Palabra introducida** | **Resultado en pantalla** |
-    | --------------- | --------------- |
+    | ------- | ------- |
     | CASA | ARVA | 
     | SACO | RVAV |
     | PANTALLA | VVVRRARV |
