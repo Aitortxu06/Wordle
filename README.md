@@ -23,8 +23,12 @@ Mecánica del juego:
   |EUSKADI|RRRVARV|
 
 ## ENLACE PROPIO DE GITHUB AITOR 
-  Enlace de mi GitHub:
-    - [GitHub proyecto de Aitor Peña]()
+  - Enlace de mi GitHub:
+    - [GitHub proyecto de Aitor Peña de Wordle](https://github.com/Aitortxu06/Wordle/tree/main)
+## IMAGEN ORIGINAL DEL JUEGO DE WORDLE
+  Vamos a añadir una **IMAGEN DEL JUEGO DE WORDLE** original:
+  ![Imagen Wordle Original](https://www.nytimes.com/2022/01/31/crosswords/nyt-wordle-purchase.html)
+    
     
 
 
