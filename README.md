@@ -29,18 +29,18 @@ Mecánica del juego:
   Vamos a añadir una **IMAGEN DEL JUEGO DE WORDLE** original:
   ![Imagen Wordle Original](https://github.com/Aitortxu06/Wordle/blob/main/wordle-art-superJumbo.jpg)
 ## EJEMPLO CODIGO DE PYTHON Y DE JAVA
-  ***Python:***  
-    ``` python
-    for i, letra in enumerate(palabra_introducida):
-    if letra == palabra_objetivo[i]:
-        print("🟩", end="")
-    elif letra in palabra_objetivo:
-        print("🟨", end="")
-    else:
-        print("⬜", end="")
-    ```
-  ***Java:***  
-    ``` java
+***Python:***  
+```python
+      for i, letra in enumerate(palabra_introducida):
+      if letra == palabra_objetivo[i]:
+          print("🟩", end="")
+      elif letra in palabra_objetivo:
+          print("🟨", end="")
+      else:
+          print("⬜", end="")
+```
+***Java:***  
+``` Java
     for (int i = 0; i < palabraIntroducida.length(); i++) {
       char letra = palabraIntroducida.charAt(i);
       if (letra == palabraObjetivo.charAt(i)) {
@@ -52,7 +52,7 @@ Mecánica del juego:
       }
     }
     System.out.println();
-    ```
+```
     
     
 
