@@ -27,7 +27,7 @@ Mecánica del juego:
     - [GitHub proyecto de Aitor Peña de Wordle](https://github.com/Aitortxu06/Wordle/tree/main)
 ## IMAGEN ORIGINAL DEL JUEGO DE WORDLE
   Vamos a añadir una **IMAGEN DEL JUEGO DE WORDLE** original:
-  ![Imagen Wordle Original](https://www.nytimes.com/2022/01/31/crosswords/nyt-wordle-purchase.html)
+  ![Imagen Wordle Original](https://github.com/Aitortxu06/Wordle/blob/main/wordle-art-superJumbo.jpg)
     
     
 
