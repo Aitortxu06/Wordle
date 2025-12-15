@@ -15,12 +15,16 @@ Mecánica del juego:
 ## TABLA EJEMPLO PARA EL QUE NO SEPA UTILIZAR WORDLE
   Tabla:  
   | **Palabra introducida** | **Resultado en pantalla** |
-  | ------- | ------- |
-    | CASA | ARVA | 
-    | SACO | RVAV |
-    | PANTALLA | VVVRRARV |
-    | MONEDA | CASA |
-    | EUSKADI | HOLA |
+  |-------|-------|
+  |CASA|ARVA| 
+  |SACO|RVAV|
+  |PANTALLA|VVVRRARV|
+  |MONEDA|VARRRA|
+  |EUSKADI|RRRVARV|
+
+## ENLACE PROPIO DE GITHUB AITOR 
+  Enlace de mi GitHub:
+    - [GitHub proyecto de Aitor Peña]()
     
 
 
